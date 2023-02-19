@@ -1,0 +1,47 @@
+<table>
+    <tr><h1>
+      <th>Solution for Disease</th>
+      <th>रोग का उपचार</th>
+      <th>રોગનો ઉપાય</th>
+      <th>ರೋಗಕ್ಕೆ ಪರಿಹಾರ</th>
+      <th>వ్యాధికి పరిష్కారం</th></h1>
+    </tr>
+    <tr><h3>
+      <td>Attack of Leaf Sucking and Chewing Pests</td>
+      <td>चुरडा,मावा रोग </td>
+      <td> લીફચૂસીને જીવાતો જીવાતોનો હુમલો </td>
+      <td>ಎಲೆ ಹೀರುವ ಮತ್ತು ಚೂಯಿಂಗ್ ಕೀಟಗಳ ದಾಳಿ</td>
+      <td> ఆకు పీల్చటం మరియు చూయింగ్ తెగుళ్ళ దాడి</td></h3>
+    </tr>
+    <tr>
+      <td><p><strong>Use any one Systemic Insecticide, which contain<i> Flonicamid 50%/ Thiamethoxam 25% WG / Imidacloprid
+        17.8 Sl / Acetamiprid 20% SP.</i></strong></p></td>
+      <td><p>किसी भी एक प्रणालीगत कीटनाशक का प्रयोग करें, जिसमें फ्लोनिकमिड ५०% / थियामेथोक्साम 25% WG / इमिडाक्लोप्रिड
+        १७.८
+        एसएल / एसिटामिप्रिड २०% एसपी है।</p></td>
+      <td><p>કોઈપણ એક પ્રણાલીગત જંતુનાશક દવાઓનો ઉપયોગ કરો, જેમાં ફ્લોનીકેમિડ 50% / થાઇઆમેથોક્સમ 25% WG / ઇમિડાકલોપ્રિડ
+        17.8
+        એસએલ / એસેટામિપ્રિડ 20% એસપી હોય છે.</p></td>
+      <td><p>ಫ್ಲೋನಿಕಾಮಿಡ್ 50% / ಥಿಯಾಮೆಥೊಕ್ಸಮ್ 25% WG / ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ 17.8 ಎಸ್ಎಲ್ / ಅಸೆಟಾಮಿಪ್ರಿಡ್ 20% ಎಸ್ಪಿ ಹೊಂದಿರುವ
+        ಯಾವುದೇ
+        ಒಂದು ವ್ಯವಸ್ಥಿತ ಕೀಟನಾಶಕವನ್ನು ಬಳಸಿ.</p></td>
+      <td><p>ఫ్లోనికామిడ్ 50% / థియామెథోక్సామ్ 25% WG / ఇమిడాక్లోప్రిడ్ 17.8 స్లా / ఎసిటామిప్రిడ్ 20% ఎస్పిని కలిగి ఉన్న
+        ఏదైనా
+        ఒక దైహిక పురుగుమందును వాడండి.</p></td>
+    </tr>
+    <tr>
+      <td>Island Trading</td>
+      <td>Helen Bennett</td>
+      <td>UK</td>
+    </tr>
+    <tr>
+      <td>Laughing Bacchus Winecellars</td>
+      <td>Yoshi Tannamuri</td>
+      <td>Canada</td>
+    </tr>
+    <tr>
+      <td>Magazzini Alimentari Riuniti</td>
+      <td>Giovanni Rovelli</td>
+      <td>Italy</td>
+    </tr>
+  </table>
